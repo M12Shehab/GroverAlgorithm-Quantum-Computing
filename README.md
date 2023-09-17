@@ -12,7 +12,7 @@ This repository contains Java code for implementing Grover's algorithm, a quantu
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
+- [License](https://github.com/M12Shehab/GroverAlgorithm-Quantum-Computing/blob/master/LICENSE)
 
 ## Introduction
 

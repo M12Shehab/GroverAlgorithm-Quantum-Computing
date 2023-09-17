@@ -1,6 +1,6 @@
 # Grover's Algorithm Implementation and Visualization
 
-![Grover's Algorithm](grover_algorithm.png)
+![Grover's Algorithm](Grover_Algorithm.png)
 
 This repository contains Java code for implementing Grover's algorithm, a quantum algorithm designed to solve unstructured search problems more efficiently than classical algorithms. It includes both sequential and parallel versions of the algorithm, as well as basic text-based visualization of the quantum state during each iteration.
 

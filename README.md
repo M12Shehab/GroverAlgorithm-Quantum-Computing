@@ -38,3 +38,6 @@ To run and experiment with the Grover's algorithm implementations, follow these 
 
    ```bash
    git clone https://github.com/m12shehab/grover-algorithm.git
+### Public version
+Author: Mohammed A. Shehab
+
